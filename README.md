@@ -39,8 +39,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<img width="827" height="967" alt="image" src="https://github.com/user-attachments/assets/fcf890f3-3e36-454d-8c7a-61afbb53bdb4" />
 <p>
+<img width="723" height="555" alt="image" src="https://github.com/user-attachments/assets/766c802f-8c20-4a09-9d16-d0c8b3ded216" />
 
 </p>
 <p>
